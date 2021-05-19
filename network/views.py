@@ -12,7 +12,6 @@ def index(request):
 
 
 def login_view(request):
-    #chinga tu madre
     if request.method == "POST":
 
         # Attempt to sign user in
