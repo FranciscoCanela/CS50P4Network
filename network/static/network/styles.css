@@ -1,0 +1,21 @@
+.post {
+    margin-top: 30px;
+    border-radius: 10px;
+    padding-top: 10px;
+  }
+  .post .post-submit button {
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 0;
+    border-radius: 4px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    filter: brightness(110%);
+  }
+
+  .post .post-submit button #submit-button-text {
+    filter: brightness(70%);
+  }
+  .post .post-submit button:hover {
+    filter: brightness(90%);
+  }
